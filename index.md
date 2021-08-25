@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## PrivacyPolicy
 
-You can use the [editor on GitHub](https://github.com/UEJIN/PrivacyPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 広告について
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本アプリでは、広告配信ツールとしてAdMob(Google Inc.)を使用しており、AdMobがご利用者の情報を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。
 
-### Markdown
+Google 広告に関するポリシー
+https://policies.google.com/technologies/ads?hl=ja
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ランキング機能について
 
-```markdown
-Syntax highlighted code block
+当アプリはオンラインランキング機能のためにネットワークを利用します。
+（ネットワーク接続の表示、ネットワークへのフルアクセス）
+オンラインランキング機能に「ニフクラ Mobile backend(以下NCMB)」を利用しています。
+NCMBのプライバシーポリシーは以下をご覧下さい。
+https://fjct.fujitsu.com/privacy/index.html
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UEJIN/PrivacyPolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+オンラインランキングではゲーム内スコア及びユーザ名を送信します。
+ユーザ名に個人情報や不適切な単語は利用しないで下さい。
+その他個人を特定出来る情報は一切送信していません。
+スコア及びユーザー名については他のユーザが閲覧可能です。
