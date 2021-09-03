@@ -2,4 +2,4 @@
 
 
 
-ああああああああああああ
+https://uejin.github.io/PrivacyPolicy/
